@@ -5,11 +5,6 @@ It explores the decline of **Bharat Herald**, a 70+ year-old Indian newspaper, a
 
 ---
 
-🔗 **Live Dashboard**  
-📊 [View Live Dashboard](#)
-
----
-
 ## 📖 Project Context
 Bharat Herald once printed over **1 million copies daily**, but by 2024 this had fallen to nearly half.  
 Key challenges included:
