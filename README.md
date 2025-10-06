@@ -46,7 +46,7 @@ The analysis was structured into three levels:
 ### 📰 Circulation
 - Copies printed dropped from **44.1M (2019)** → **33.1M (2024)** (consistent 5–6% decline per year).  
 - Top circulation cities (**Jaipur, Varanasi, Mumbai, Delhi, Kanpur**) together make up **60%** of total volume but are **less profitable**.  
-- Smaller cities like **Lucknow, Patna, Ranchi** show higher profitability indices (**>19**).  
+- Smaller cities like **Lucknow, Patna, Ranchi** are more profitable.  
 
 ### 📉 Print Waste
 - Annual waste fell from **4.5M (2019)** → **3.5M (2024)**, a **22% reduction**.  
@@ -71,7 +71,7 @@ The analysis was structured into three levels:
 ## 🚀 Recommendations
 
 ### Phased Digital Transition
-- **Phase 1** → Kanpur, Varanasi, Bhopal (high readiness + urgency)  
+- **Phase 1** → Ahmedabad,Lucknow and Bhopal (high readiness + urgency)  
 - **Phase 2** → Medium readiness, high engagement cities  
 - **Phase 3** → Lower readiness markets (focus on awareness)  
 
@@ -106,13 +106,13 @@ The analysis was structured into three levels:
 ---
 
 ## 🛠️ Tools & Tech
-- **Power BI** → Dashboard creation and storytelling  
-- **Power Query** → Data cleaning, shaping, and transformation  
-- **SQL** → Querying ad-hoc requests and deeper analysis  
-- **DAX** → Calculated measures and KPIs within Power BI  
+- **Python** → Core language for analysis and visualization  
+- **Pandas** → Data cleaning, manipulation, and analysis  
+- **Matplotlib** → Visualizing key trends and comparisons  
+- **Seaborn** → Creating advanced, aesthetically rich statistical plots  
 
 ---
 
 📅 *Project Completed as part of Codebasics Resume Project Challenge 17*  
-👤 *Author: Your Name*  
-
+👤 *Author: Virat Singh Chauhan*  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/virats02)
